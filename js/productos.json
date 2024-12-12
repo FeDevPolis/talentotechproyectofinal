@@ -2,7 +2,7 @@
     {
         "id": "city01",
         "titulo": "Atlanta Hawks",
-        "imagen": "./Assets/city01.avif",
+        "imagen": "./assets/city01.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -12,7 +12,7 @@
     {
         "id": "city02",
         "titulo": "Boston Celtics",
-        "imagen": "./Assets/city02.avif",
+        "imagen": "./assets/city02.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -22,7 +22,7 @@
     {
         "id": "city03",
         "titulo": "Brooklyn Nets",
-        "imagen": "./Assets/city03.avif",
+        "imagen": "./assets/city03.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -32,7 +32,7 @@
     {
         "id": "city04",
         "titulo": "Charlotte Hornets",
-        "imagen": "./Assets/city04.avif",
+        "imagen": "./assets/city04.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -42,7 +42,7 @@
     {
         "id": "city05",
         "titulo": "Chicago Bulls",
-        "imagen": "./Assets/city05.avif",
+        "imagen": "./assets/city05.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -52,7 +52,7 @@
     {
         "id": "city06",
         "titulo": "Cleveland Cavaliers",
-        "imagen": "./Assets/city06.avif",
+        "imagen": "./assets/city06.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -62,7 +62,7 @@
     {
         "id": "city07",
         "titulo": "Dallas Mavericks",
-        "imagen": "./Assets/city07.avif",
+        "imagen": "./assets/city07.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -72,7 +72,7 @@
     {
         "id": "city08",
         "titulo": "Denver Nuggets",
-        "imagen": "./Assets/city08.avif",
+        "imagen": "./assets/city08.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -82,7 +82,7 @@
     {
         "id": "city09",
         "titulo": "Detroit Pistons",
-        "imagen": "./Assets/city09.avif",
+        "imagen": "./assets/city09.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -92,7 +92,7 @@
     {
         "id": "city10",
         "titulo": "Golden State Warriors",
-        "imagen": "./Assets/city10.jpg",
+        "imagen": "./assets/city10.jpg",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -102,7 +102,7 @@
     {
         "id": "city11",
         "titulo": "Houston Rockets",
-        "imagen": "./Assets/city11.jpg",
+        "imagen": "./assets/city11.jpg",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -112,7 +112,7 @@
     {
         "id": "city12",
         "titulo": "Indiana Pacers",
-        "imagen": "./Assets/city12.avif",
+        "imagen": "./assets/city12.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -122,7 +122,7 @@
     {
         "id": "city13",
         "titulo": "Los Angeles Clippers",
-        "imagen": "./Assets/city13.avif",
+        "imagen": "./assets/city13.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -132,7 +132,7 @@
     {
         "id": "city14",
         "titulo": "Los Angeles Lakers",
-        "imagen": "./Assets/city14.avif",
+        "imagen": "./assets/city14.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -142,7 +142,7 @@
     {
         "id": "city15",
         "titulo": "Memphis Grizzlies",
-        "imagen": "./Assets/city15.jpg",
+        "imagen": "./assets/city15.jpg",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -152,7 +152,7 @@
     {
         "id": "city16",
         "titulo": "Miami Heat",
-        "imagen": "./Assets/city16.jpg",
+        "imagen": "./assets/city16.jpg",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -162,7 +162,7 @@
     {
         "id": "city17",
         "titulo": "Milwaukee Bucks",
-        "imagen": "./Assets/city17.avif",
+        "imagen": "./assets/city17.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -172,7 +172,7 @@
     {
         "id": "city18",
         "titulo": "Minnesota Timberwolves",
-        "imagen": "./Assets/city18.avif",
+        "imagen": "./assets/city18.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -182,7 +182,7 @@
     {
         "id": "city19",
         "titulo": "New Orleans Pelicans",
-        "imagen": "./Assets/city19.avif",
+        "imagen": "./assets/city19.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -192,7 +192,7 @@
     {
         "id": "city20",
         "titulo": "New York Knicks",
-        "imagen": "./Assets/city20.avif",
+        "imagen": "./assets/city20.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -202,7 +202,7 @@
     {
         "id": "city21",
         "titulo": "Oklahoma City Thunder",
-        "imagen": "./Assets/city21.avif",
+        "imagen": "./assets/city21.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -212,7 +212,7 @@
     {
         "id": "city22",
         "titulo": "Orlando Magic",
-        "imagen": "./Assets/city22.avif",
+        "imagen": "./assets/city22.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -222,7 +222,7 @@
     {
         "id": "city23",
         "titulo": "Philadelphia 76ers",
-        "imagen": "./Assets/city23.avif",
+        "imagen": "./assets/city23.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -232,7 +232,7 @@
     {
         "id": "city24",
         "titulo": "Phoenix Suns",
-        "imagen": "./Assets/city24.avif",
+        "imagen": "./assets/city24.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -242,7 +242,7 @@
     {
         "id": "city25",
         "titulo": "Portland Trail Blazers",
-        "imagen": "./Assets/city25.jpg",
+        "imagen": "./assets/city25.jpg",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -252,7 +252,7 @@
     {
         "id": "city26",
         "titulo": "Sacramento Kings",
-        "imagen": "./Assets/city26.jpg",
+        "imagen": "./assets/city26.jpg",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -262,7 +262,7 @@
     {
         "id": "city27",
         "titulo": "San Antonio Spurs",
-        "imagen": "./Assets/city27.avif",
+        "imagen": "./assets/city27.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -272,7 +272,7 @@
     {
         "id": "city28",
         "titulo": "Toronto Raptors",
-        "imagen": "./Assets/city28.jpg",
+        "imagen": "./assets/city28.jpg",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -282,7 +282,7 @@
     {
         "id": "city29",
         "titulo": "Utah Jazz",
-        "imagen": "./Assets/city29.avif",
+        "imagen": "./assets/city29.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -292,7 +292,7 @@
     {
         "id": "city30",
         "titulo": "Washington Wizards",
-        "imagen": "./Assets/city30.avif",
+        "imagen": "./assets/city30.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "city"
@@ -302,7 +302,7 @@
     {
         "id": "classic31",
         "titulo": "Michael Jordan Bulls",
-        "imagen": "./Assets/classic01.avif",
+        "imagen": "./assets/classic01.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "classic"
@@ -312,7 +312,7 @@
     {
         "id": "classic32",
         "titulo": "Dennis Rodman Bulls",
-        "imagen": "./Assets/classic02.avif",
+        "imagen": "./assets/classic02.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "classic"
@@ -322,7 +322,7 @@
     {
         "id": "classic33",
         "titulo": "Karl Malone Jazz",
-        "imagen": "./Assets/classic03.avif",
+        "imagen": "./assets/classic03.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "classic"
@@ -332,7 +332,7 @@
     {
         "id": "classic34",
         "titulo": "John Stockton Jazz",
-        "imagen": "./Assets/classic04.avif",
+        "imagen": "./assets/classic04.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "classic"
@@ -342,7 +342,7 @@
     {
         "id": "classic35",
         "titulo": "Shaq Magic",
-        "imagen": "./Assets/classic05.avif",
+        "imagen": "./assets/classic05.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "classic"
@@ -352,7 +352,7 @@
     {
         "id": "classic36",
         "titulo": "Shaq Lakers",
-        "imagen": "./Assets/classic06.avif",
+        "imagen": "./assets/classic06.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "classic"
@@ -362,7 +362,7 @@
     {
         "id": "classic37",
         "titulo": "Tim Duncan Spurs",
-        "imagen": "./Assets/classic07.avif",
+        "imagen": "./assets/classic07.avif",
         "categoria": {
             "nombre": "Jerseys",
             "id": "classic"
