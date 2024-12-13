@@ -2,9 +2,9 @@
     {
         "id": "city01",
         "titulo": "Atlanta Hawks",
-        "imagen": "./assets/city01.avif",
+        "imagen": "../assets/city01.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -12,9 +12,9 @@
     {
         "id": "city02",
         "titulo": "Boston Celtics",
-        "imagen": "./assets/city02.avif",
+        "imagen": "../assets/city02.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -22,9 +22,9 @@
     {
         "id": "city03",
         "titulo": "Brooklyn Nets",
-        "imagen": "./assets/city03.avif",
+        "imagen": "../assets/city03.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -32,9 +32,9 @@
     {
         "id": "city04",
         "titulo": "Charlotte Hornets",
-        "imagen": "./assets/city04.avif",
+        "imagen": "../assets/city04.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -42,9 +42,9 @@
     {
         "id": "city05",
         "titulo": "Chicago Bulls",
-        "imagen": "./assets/city05.avif",
+        "imagen": "../assets/city05.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -52,9 +52,9 @@
     {
         "id": "city06",
         "titulo": "Cleveland Cavaliers",
-        "imagen": "./assets/city06.avif",
+        "imagen": "../assets/city06.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -62,9 +62,9 @@
     {
         "id": "city07",
         "titulo": "Dallas Mavericks",
-        "imagen": "./assets/city07.avif",
+        "imagen": "../assets/city07.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -72,9 +72,9 @@
     {
         "id": "city08",
         "titulo": "Denver Nuggets",
-        "imagen": "./assets/city08.avif",
+        "imagen": "../assets/city08.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -82,9 +82,9 @@
     {
         "id": "city09",
         "titulo": "Detroit Pistons",
-        "imagen": "./assets/city09.avif",
+        "imagen": "../assets/city09.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -92,9 +92,9 @@
     {
         "id": "city10",
         "titulo": "Golden State Warriors",
-        "imagen": "./assets/city10.jpg",
+        "imagen": "../assets/city10.jpg",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -102,9 +102,9 @@
     {
         "id": "city11",
         "titulo": "Houston Rockets",
-        "imagen": "./assets/city11.jpg",
+        "imagen": "../assets/city11.jpg",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -112,9 +112,9 @@
     {
         "id": "city12",
         "titulo": "Indiana Pacers",
-        "imagen": "./assets/city12.avif",
+        "imagen": "../assets/city12.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -122,9 +122,9 @@
     {
         "id": "city13",
         "titulo": "Los Angeles Clippers",
-        "imagen": "./assets/city13.avif",
+        "imagen": "../assets/city13.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -132,9 +132,9 @@
     {
         "id": "city14",
         "titulo": "Los Angeles Lakers",
-        "imagen": "./assets/city14.avif",
+        "imagen": "../assets/city14.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -142,9 +142,9 @@
     {
         "id": "city15",
         "titulo": "Memphis Grizzlies",
-        "imagen": "./assets/city15.jpg",
+        "imagen": "../assets/city15.jpg",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -152,9 +152,9 @@
     {
         "id": "city16",
         "titulo": "Miami Heat",
-        "imagen": "./assets/city16.jpg",
+        "imagen": "../assets/city16.jpg",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -162,9 +162,9 @@
     {
         "id": "city17",
         "titulo": "Milwaukee Bucks",
-        "imagen": "./assets/city17.avif",
+        "imagen": "../assets/city17.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -172,9 +172,9 @@
     {
         "id": "city18",
         "titulo": "Minnesota Timberwolves",
-        "imagen": "./assets/city18.avif",
+        "imagen": "../assets/city18.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -182,9 +182,9 @@
     {
         "id": "city19",
         "titulo": "New Orleans Pelicans",
-        "imagen": "./assets/city19.avif",
+        "imagen": "../assets/city19.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -192,9 +192,9 @@
     {
         "id": "city20",
         "titulo": "New York Knicks",
-        "imagen": "./assets/city20.avif",
+        "imagen": "../assets/city20.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -202,9 +202,9 @@
     {
         "id": "city21",
         "titulo": "Oklahoma City Thunder",
-        "imagen": "./assets/city21.avif",
+        "imagen": "../assets/city21.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -212,9 +212,9 @@
     {
         "id": "city22",
         "titulo": "Orlando Magic",
-        "imagen": "./assets/city22.avif",
+        "imagen": "../assets/city22.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -222,9 +222,9 @@
     {
         "id": "city23",
         "titulo": "Philadelphia 76ers",
-        "imagen": "./assets/city23.avif",
+        "imagen": "../assets/city23.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -232,9 +232,9 @@
     {
         "id": "city24",
         "titulo": "Phoenix Suns",
-        "imagen": "./assets/city24.avif",
+        "imagen": "../assets/city24.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -242,9 +242,9 @@
     {
         "id": "city25",
         "titulo": "Portland Trail Blazers",
-        "imagen": "./assets/city25.jpg",
+        "imagen": "../assets/city25.jpg",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -252,9 +252,9 @@
     {
         "id": "city26",
         "titulo": "Sacramento Kings",
-        "imagen": "./assets/city26.jpg",
+        "imagen": "../assets/city26.jpg",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -262,9 +262,9 @@
     {
         "id": "city27",
         "titulo": "San Antonio Spurs",
-        "imagen": "./assets/city27.avif",
+        "imagen": "../assets/city27.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -272,9 +272,9 @@
     {
         "id": "city28",
         "titulo": "Toronto Raptors",
-        "imagen": "./assets/city28.jpg",
+        "imagen": "../assets/city28.jpg",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -282,9 +282,9 @@
     {
         "id": "city29",
         "titulo": "Utah Jazz",
-        "imagen": "./assets/city29.avif",
+        "imagen": "../assets/city29.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -292,9 +292,9 @@
     {
         "id": "city30",
         "titulo": "Washington Wizards",
-        "imagen": "./assets/city30.avif",
+        "imagen": "../assets/city30.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "city"
         },
         "precio": 75000
@@ -302,9 +302,9 @@
     {
         "id": "classic31",
         "titulo": "Michael Jordan Bulls",
-        "imagen": "./assets/classic01.avif",
+        "imagen": "../assets/classic01.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "classic"
         },
         "precio": 125000
@@ -312,9 +312,9 @@
     {
         "id": "classic32",
         "titulo": "Dennis Rodman Bulls",
-        "imagen": "./assets/classic02.avif",
+        "imagen": "../assets/classic02.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "classic"
         },
         "precio": 125000
@@ -322,9 +322,9 @@
     {
         "id": "classic33",
         "titulo": "Karl Malone Jazz",
-        "imagen": "./assets/classic03.avif",
+        "imagen": "../assets/classic03.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "classic"
         },
         "precio": 125000
@@ -332,9 +332,9 @@
     {
         "id": "classic34",
         "titulo": "John Stockton Jazz",
-        "imagen": "./assets/classic04.avif",
+        "imagen": "../assets/classic04.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "classic"
         },
         "precio": 125000
@@ -342,9 +342,9 @@
     {
         "id": "classic35",
         "titulo": "Shaq Magic",
-        "imagen": "./assets/classic05.avif",
+        "imagen": "../assets/classic05.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "classic"
         },
         "precio": 125000
@@ -352,9 +352,9 @@
     {
         "id": "classic36",
         "titulo": "Shaq Lakers",
-        "imagen": "./assets/classic06.avif",
+        "imagen": "../assets/classic06.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "classic"
         },
         "precio": 125000
@@ -362,9 +362,9 @@
     {
         "id": "classic37",
         "titulo": "Tim Duncan Spurs",
-        "imagen": "./assets/classic07.avif",
+        "imagen": "../assets/classic07.avif",
         "categoria": {
-            "nombre": "Jerseys",
+            "nombre": "jerseys",
             "id": "classic"
         },
         "precio": 125000

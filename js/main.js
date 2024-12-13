@@ -1,6 +1,6 @@
 let productos = [];
 
-fetch("./js/productos.json")
+fetch("/js/productos.json")
     .then(response => response.json())
     .then(data => {
         productos = data;
@@ -12,7 +12,7 @@ const contenedorProductos = document.querySelector("#contenedor-productos");
 const botonesCategorias = document.querySelectorAll(".boton-categoria");
 const tituloPrincipal = document.querySelector("#titulo-principal");
 let botonesAgregar = document.querySelectorAll(".producto-agregar");
-const numerito = document.querySelector("#numerito");
+const num = document.querySelector("#num");
 
 
 botonesCategorias.forEach(boton => boton.addEventListener("click", () => {
@@ -77,7 +77,7 @@ let productosEnCarritoLS = localStorage.getItem("productos-en-carrito");
 
 if (productosEnCarritoLS) {
     productosEnCarrito = JSON.parse(productosEnCarritoLS);
-    actualizarNumerito();
+    actualizarNum();
 } else {
     productosEnCarrito = [];
 }
@@ -115,12 +115,46 @@ function agregarAlCarrito(e) {
         productosEnCarrito.push(productoAgregado);
     }
 
-    actualizarNumerito();
+    actualizarNum();
 
     localStorage.setItem("productos-en-carrito", JSON.stringify(productosEnCarrito));
 }
 
-function actualizarNumerito() {
-    let nuevoNumerito = productosEnCarrito.reduce((acc, producto) => acc + producto.cantidad, 0);
-    numerito.innerText = nuevoNumerito;
+function actualizarNum() {
+    let nuevoNum = productosEnCarrito.reduce((acc, producto) => acc + producto.cantidad, 0);
+    num.innerText = nuevoNum;
 }
+
+document.addEventListener("DOMContentLoaded", () => {
+    // Elementos del DOM
+    const airImage = document.getElementById("air");
+    const botonesMenu = document.querySelectorAll(".boton-menu");
+
+    // Función para manejar la visibilidad de la imagen
+    function mostrarHome() {
+        // Comprueba si el botón 'Home' está activo
+        const botonHome = document.getElementById("home");
+        if (botonHome.classList.contains("active")) {
+            airImage.classList.remove("hidden"); // Muestra la imagen
+        } else {
+            airImage.classList.add("hidden"); // Oculta la imagen
+        }
+    }
+
+    // Evento de click en los botones del menú
+    botonesMenu.forEach((boton) => {
+        boton.addEventListener("click", () => {
+            // Remueve la clase 'active' de todos los botones
+            botonesMenu.forEach((b) => b.classList.remove("active"));
+
+            // Agrega la clase 'active' al botón clickeado
+            boton.classList.add("active");
+
+            // Actualiza la visibilidad de la imagen
+            mostrarHome();
+        });
+    });
+
+    // Muestra la imagen por defecto al cargar la página
+    mostrarHome();
+});
