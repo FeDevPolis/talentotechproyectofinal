@@ -8,10 +8,6 @@
     --clr-red: #ff0000;
 }
 
-body {
-    cursor: url("../assets/cursor.png"), 8, 0, auto;
-}
-
 * {
     margin: 0;
     padding: 0;
@@ -30,6 +26,10 @@ ul {
 
 a {
     text-decoration: none;
+}
+
+.air{
+    text-align: center;
 }
 
 .wrapper {
