@@ -368,5 +368,15 @@
             "id": "classic"
         },
         "precio": 125000
+    },
+    {
+        "id": "classic8",
+        "titulo": "Manu Ginobili Spurs",
+        "imagen": "../assets/classic08.avif",
+        "categoria": {
+            "nombre": "Hardwood Classic Jerseys",
+            "id": "classic"
+        },
+        "precio": 125000
     }
 ]

@@ -1,6 +1,6 @@
 let productos = [];
 
-fetch("/js/productos.json")
+fetch("../js/productos.json")
     .then(response => response.json())
     .then(data => {
         productos = data;
@@ -92,7 +92,7 @@ function agregarAlCarrito(e) {
         position: "right", // `left`, `center` or `right`
         stopOnFocus: true, // Prevents dismissing of toast on hover
         style: {
-          background: "linear-gradient(to right,rgb(255, 0, 0),rgb(0, 0, 255))",
+          background: "linear-gradient(to right,rgb(0, 0, 255),rgb(255, 0, 0))",
           borderRadius: "2rem",
           textTransform: "uppercase",
           fontSize: ".75rem"
@@ -124,37 +124,3 @@ function actualizarNum() {
     let nuevoNum = productosEnCarrito.reduce((acc, producto) => acc + producto.cantidad, 0);
     num.innerText = nuevoNum;
 }
-
-document.addEventListener("DOMContentLoaded", () => {
-    // Elementos del DOM
-    const airImage = document.getElementById("air");
-    const botonesMenu = document.querySelectorAll(".boton-menu");
-
-    // Función para manejar la visibilidad de la imagen
-    function mostrarHome() {
-        // Comprueba si el botón 'Home' está activo
-        const botonHome = document.getElementById("home");
-        if (botonHome.classList.contains("active")) {
-            airImage.classList.remove("hidden"); // Muestra la imagen
-        } else {
-            airImage.classList.add("hidden"); // Oculta la imagen
-        }
-    }
-
-    // Evento de click en los botones del menú
-    botonesMenu.forEach((boton) => {
-        boton.addEventListener("click", () => {
-            // Remueve la clase 'active' de todos los botones
-            botonesMenu.forEach((b) => b.classList.remove("active"));
-
-            // Agrega la clase 'active' al botón clickeado
-            boton.classList.add("active");
-
-            // Actualiza la visibilidad de la imagen
-            mostrarHome();
-        });
-    });
-
-    // Muestra la imagen por defecto al cargar la página
-    mostrarHome();
-});

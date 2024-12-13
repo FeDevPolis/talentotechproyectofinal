@@ -80,7 +80,7 @@ function eliminarDelCarrito(e) {
         position: "right", // `left`, `center` or `right`
         stopOnFocus: true, // Prevents dismissing of toast on hover
         style: {
-          background: "linear-gradient(to right,rgb(255, 0, 0),rgb(0, 0, 255))",
+          background: "linear-gradient(to right,rgb(0, 0, 255),rgb(255, 0, 0))",
           borderRadius: "2rem",
           textTransform: "uppercase",
           fontSize: ".75rem"
